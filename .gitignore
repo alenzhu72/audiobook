@@ -1,0 +1,13 @@
+.venv*/
+data/raw/
+data/text/
+data/segments/
+data/subtitles/
+assets/audio/
+assets/images/
+outputs/
+work/
+work-*.html
+__pycache__/
+scripts/__pycache__/
+*.pyc

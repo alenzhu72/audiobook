@@ -1,0 +1,4 @@
+kokoro>=0.9.4,<0.10
+soundfile>=0.12.1
+misaki[zh]>=0.9.4,<0.10
+numpy>=1.26

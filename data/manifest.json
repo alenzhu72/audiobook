@@ -1,0 +1,98 @@
+{
+  "book_title": "玉闺红全传",
+  "source": "Chinese Text Project",
+  "source_url": "https://ctext.org/wiki.pl?if=gb&res=163914&remap=gb",
+  "chapters": [
+    {
+      "index": 1,
+      "id": "715377",
+      "title": "第一回　弄奸权竖阉祸国　书奏折狂风示兆",
+      "paragraph_count": 18,
+      "segment_count": 43,
+      "text_file": "data\\text\\chapter_01.txt",
+      "source_url": "https://ctext.org/wiki.pl?if=gb&chapter=715377&remap=gb"
+    },
+    {
+      "index": 2,
+      "id": "384812",
+      "title": "第二回　陷忠良李公成仁　遭凶变小姐落难",
+      "paragraph_count": 25,
+      "segment_count": 54,
+      "text_file": "data\\text\\chapter_02.txt",
+      "source_url": "https://ctext.org/wiki.pl?if=gb&chapter=384812&remap=gb"
+    },
+    {
+      "index": 3,
+      "id": "264059",
+      "title": "第三回　黑陋巷义婢救主　前门外恶奴辜恩",
+      "paragraph_count": 31,
+      "segment_count": 60,
+      "text_file": "data\\text\\chapter_03.txt",
+      "source_url": "https://ctext.org/wiki.pl?if=gb&chapter=264059&remap=gb"
+    },
+    {
+      "index": 4,
+      "id": "115205",
+      "title": "第四回　小白狼强狠强霸　张小脚勾奸卖奸",
+      "paragraph_count": 41,
+      "segment_count": 87,
+      "text_file": "data\\text\\chapter_04.txt",
+      "source_url": "https://ctext.org/wiki.pl?if=gb&chapter=115205&remap=gb"
+    },
+    {
+      "index": 5,
+      "id": "444977",
+      "title": "第五回　穷风月赵三定计　活冤孽孤孀遭危",
+      "paragraph_count": 37,
+      "segment_count": 74,
+      "text_file": "data\\text\\chapter_05.txt",
+      "source_url": "https://ctext.org/wiki.pl?if=gb&chapter=444977&remap=gb"
+    },
+    {
+      "index": 6,
+      "id": "492933",
+      "title": "第六回　吴来子巧赚多娇　老虔婆夜拷玉女",
+      "paragraph_count": 18,
+      "segment_count": 69,
+      "text_file": "data\\text\\chapter_06.txt",
+      "source_url": "https://ctext.org/wiki.pl?if=gb&chapter=492933&remap=gb"
+    },
+    {
+      "index": 7,
+      "id": "479462",
+      "title": "第七回　落烟花小姐投环　沦成人老贵讲价",
+      "paragraph_count": 12,
+      "segment_count": 71,
+      "text_file": "data\\text\\chapter_07.txt",
+      "source_url": "https://ctext.org/wiki.pl?if=gb&chapter=479462&remap=gb"
+    },
+    {
+      "index": 8,
+      "id": "650763",
+      "title": "第八回　通花径粪夫作乐　强梳拢小姐受苦",
+      "paragraph_count": 18,
+      "segment_count": 77,
+      "text_file": "data\\text\\chapter_08.txt",
+      "source_url": "https://ctext.org/wiki.pl?if=gb&chapter=650763&remap=gb"
+    },
+    {
+      "index": 9,
+      "id": "760668",
+      "title": "第九回　贪美色牛征豕逐　采新蕊月蹂花",
+      "paragraph_count": 30,
+      "segment_count": 84,
+      "text_file": "data\\text\\chapter_09.txt",
+      "source_url": "https://ctext.org/wiki.pl?if=gb&chapter=760668&remap=gb"
+    },
+    {
+      "index": 10,
+      "id": "749929",
+      "title": "第十回　试紫箫羞云怯雨　比小童折玉摧兰",
+      "paragraph_count": 17,
+      "segment_count": 55,
+      "text_file": "data\\text\\chapter_10.txt",
+      "source_url": "https://ctext.org/wiki.pl?if=gb&chapter=749929&remap=gb"
+    }
+  ],
+  "segment_count": 674
+}
